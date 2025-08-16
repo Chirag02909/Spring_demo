@@ -8,5 +8,6 @@
 </head>
 <body>
 	<h2>Welcome ${sessionScope.fn} ${sessionScope.ln}!</h2>
+	<h2>Welcome to Github</h2>
 </body>
 </html>
